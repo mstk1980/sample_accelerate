@@ -18,7 +18,7 @@
         },
         {
           "name": "Queue",
-          "query": "pr.status!=\"closed\"",
+          "query": "pr.status=\"closed\"",
           "description": "",
           "wipLimit": null,
           "gates": null
