@@ -9,6 +9,10 @@ public class Color1Run {
 		//メソッドの呼出し
 		System.out.println(cl.getColor(1));
 
+		//メソッドの呼出し
+		System.out.println(cl.getColor(2));
+
+
 	}
 
 }
