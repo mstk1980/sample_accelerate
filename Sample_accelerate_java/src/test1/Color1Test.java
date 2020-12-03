@@ -16,7 +16,7 @@ public class Color1Test {
 	public void testGetColor2() {
 		Color1 c1 = new Color1();
 		String t1 = c1.getColor(2);
-		assertThat(t1,is("test"));
+		assertThat(t1,is("青"));
 	}
 	@Test
 	public void testGetColor3() {
