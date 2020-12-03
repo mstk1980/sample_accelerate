@@ -1,8 +1,3 @@
-package test1;
-
-
-
-
 public class Color1 {
 
 	public static void main(String[] args) {
